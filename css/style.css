@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(88, 194, 141);
+}
+h1 {
+    color: rgb(26, 99, 87);
+    background-color: rgb(184, 236, 219);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: rgb(113, 2, 192);
+    background-color: rgb(172, 172, 248);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 400%;
+}
+button {
+    width: 80px;
+    height: 60px;
+    font-family: Impact;
+    font-size:130%;
+    font-weight: bold;
+}
+button#dodaj {
+    color: rgb(8, 143, 4);
+    background-color: rgb(80, 80, 80);
+}
+
+button#usun {
+    color: rgb(243, 4, 4);
+    background-color: rgb(80, 80, 80);
+}
